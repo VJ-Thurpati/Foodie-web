@@ -1,0 +1,56 @@
+.img-logo{
+    height: 100px;
+    width: auto;
+}
+
+.img-logo:hover{
+    background-color: rgb(71, 2, 31);
+}
+.header-section{
+    background: crimson;
+    font-family: calibri; 
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.header-section{
+    display: flex; 
+    justify-content: space-between;
+}
+
+li:hover{
+    background-color: black;
+}
+li{
+    list-style: none; 
+    display: inline-block;
+}
+li a{
+    color: white; 
+    font-size: 18px; 
+    font-weight: bold; 
+    margin-right: 15px;
+    margin-left: 20px;
+}
+button{
+    background-color: black;
+     margin-left: 10px;
+      border-radius: 10px; 
+      padding: 10px;
+       width: 90px;
+}
+button a{
+    color: white; font-weight: bold; font-size: 15px;
+}
+ul{
+    margin-left: auto;
+}
+.head-btn{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+button:hover {
+    background-color: #45a049; 
+}
